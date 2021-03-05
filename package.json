@@ -1,0 +1,19 @@
+{
+  "name": "@serverless-dns/error",
+  "version": "1.0.0",
+  "description": "dns resolver error module",
+  "main": "error.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serverless-dns/error-handler.git"
+  },
+  "author": "",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/serverless-dns/error-handler/issues"
+  },
+  "homepage": "https://github.com/serverless-dns/error-handler#readme"
+}
